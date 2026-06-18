@@ -1,6 +1,6 @@
 # ¡Hola! Soy Ramiro Rodriguez Castro 👋
 
-<img src="meOnSetupRender.jpg" align="right" alt="Ramiro Setup Render" width="340px" style="margin-left: 20px; border-radius: 10px;"/>
+<img src="meOnSetupRender.png" align="right" alt="Ramiro Setup Render" width="340px" style="margin-left: 20px; border-radius: 10px;"/>
 
 Soy un **Desarrollador Full Stack** y estudiante avanzado de la Tecnicatura Superior en Informática Aplicada en la **UTN-INSPT** (cursada 100% finalizada)[cite: 1]. Me apasiona el pensamiento lógico, la arquitectura de software y resolver problemas complejos mediante código limpio y estructurado[cite: 1].
 
