@@ -36,7 +36,7 @@ Soy un **Desarrollador Full Stack** y estudiante avanzado de la Tecnicatura Supe
 ---
 
 ### 📂 Proyecto Destacado:
-🎵 **[Jukebox](https://github.com/RamiroRodriguezC)** (Prototipo de Red Social de Reseñas Musicales)
+🎵 **[Jukebox](https://jukebox-front-end.vercel.app/)** (Prototipo de Red Social de Reseñas Musicales)
 - Desarrollada con el **Stack MERN** como proyecto final para la UTN.
 - Incluye manejo de base de datos no relacional, diseño responsivo, y consumo/gestión de APIs para interacción de usuarios.
 
