@@ -2,13 +2,13 @@
 
 <img src="meOnSetupRender.png" align="right" alt="Ramiro Setup Render" width="340px" style="margin-left: 20px; border-radius: 10px;"/>
 
-Soy un **Desarrollador Full Stack** y estudiante avanzado de la Tecnicatura Superior en Informática Aplicada en la **UTN-INSPT** (cursada 100% finalizada)[cite: 1]. Me apasiona el pensamiento lógico, la arquitectura de software y resolver problemas complejos mediante código limpio y estructurado[cite: 1].
+Soy un **Desarrollador Full Stack** y estudiante avanzado de la Tecnicatura Superior en Informática Aplicada en la **UTN-INSPT** (cursada 100% finalizada). Me apasiona el pensamiento lógico, la arquitectura de software y resolver problemas complejos mediante código limpio y estructurado.
 
 ### 🚀 Sobre mí:
-- 🎓 **Educación:** Cursada regular finalizada en UTN-INSPT, con bases firmes en estructuras de datos, POO y lógica estructurada[cite: 1].
-- 💻 **Enfoque actual:** Construyendo aplicaciones robustas con el ecosistema **MERN** (MongoDB, Express, React, Node.js)[cite: 1].
-- ⚙️ **Habilidades Blandas:** Capacidad analítica, organización de tareas, aprendizaje autodidacta y enfoque resolutivo[cite: 1].
-- ⚽ **Intereses:** Fanático del fútbol, el ciclismo y el gaming[cite: 1].
+- 🎓 **Educación:** Cursada regular finalizada en UTN-INSPT, con bases firmes en estructuras de datos, POO y lógica estructurada.
+- 💻 **Enfoque actual:** Construyendo aplicaciones robustas con el ecosistema **MERN** (MongoDB, Express, React, Node.js).
+- ⚙️ **Habilidades Blandas:** Capacidad analítica, organización de tareas, aprendizaje autodidacta y enfoque resolutivo.
+- ⚽ **Intereses:** Fanático del fútbol, el ciclismo y el gaming.
 
 ### 🛠️ Tecnologías y Herramientas:
 
@@ -36,15 +36,15 @@ Soy un **Desarrollador Full Stack** y estudiante avanzado de la Tecnicatura Supe
 ---
 
 ### 📂 Proyecto Destacado:
-🎵 **[Jukebox](https://github.com/RamiroRodriguezC)** (Prototipo de Red Social de Reseñas Musicales)[cite: 1]
-- Desarrollada con el **Stack MERN** como proyecto final para la UTN[cite: 1].
+🎵 **[Jukebox](https://github.com/RamiroRodriguezC)** (Prototipo de Red Social de Reseñas Musicales)
+- Desarrollada con el **Stack MERN** como proyecto final para la UTN.
 - Incluye manejo de base de datos no relacional, diseño responsivo, y consumo/gestión de APIs para interacción de usuarios.
 
 ---
 
 ### 📬 ¿Querés charlar o colaborar en un proyecto?
 - **LinkedIn:** [linkedin.com/in/rodriguezcastroramiro](https://www.linkedin.com/in/rodriguezcastroramiro/)
-- **Correo:** [ramirorodcas.dev@gmail.com](mailto:ramirorodcas.dev@gmail.com)[cite: 1]
+- **Correo:** [ramirorodcas.dev@gmail.com](mailto:ramirorodcas.dev@gmail.com)
 
 ---
 
